@@ -1,182 +1,237 @@
 [
   {
-    "song": "\nMeant To Be\n",
-    "artist": "\nBebe Rexha & Florida Georgia Line\n",
+    "song": "Meant To Be",
+    "artist": "Bebe Rexha & Florida Georgia Line",
     "genre": "country"
   },
   {
-    "song": "\nHeaven\n",
-    "artist": "\n",
+    "song": "Heaven",
+    "artist": "Kane Brown",
     "genre": "country"
   },
   {
-    "song": "\nTequila\n",
-    "artist": "\n",
+    "song": "Tequila",
+    "artist": "Dan + Shay",
     "genre": "country"
   },
   {
-    "song": "\nYou Make It Easy\n",
-    "artist": "\n",
+    "song": "You Make It Easy",
+    "artist": "Jason Aldean",
     "genre": "country"
   },
   {
-    "song": "\nMarry Me\n",
-    "artist": "\n",
+    "song": "Marry Me",
+    "artist": "Thomas Rhett",
     "genre": "country"
   },
   {
-    "song": "\nOne Number Away\n",
-    "artist": "\n",
+    "song": "One Number Away",
+    "artist": "Luke Combs",
     "genre": "country"
   },
   {
-    "song": "\nSimple\n",
-    "artist": "\n",
+    "song": "Simple",
+    "artist": "Florida Georgia Line",
     "genre": "country"
   },
   {
-    "song": "\nGet Along\n",
-    "artist": "\n",
+    "song": "Thunder",
+    "artist": "Imagine Dragons",
+    "genre": "rock"
+  },
+  {
+    "song": "Despacito",
+    "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+    "genre": "latin"
+  },
+  {
+    "song": "The Middle",
+    "artist": "Zedd, Maren Morris & Grey",
+    "genre": "electronic"
+  },
+  {
+    "song": "New Rules",
+    "artist": "Dua Lipa",
+    "genre": "pop"
+  },
+  {
+    "song": "God's Plan",
+    "artist": "Drake",
+    "genre": "hiphop"
+  },
+  {
+    "song": "Reckless Love",
+    "artist": "Cory Asbury",
+    "genre": "christian"
+  },
+  {
+    "song": "Get Along",
+    "artist": "Kenny Chesney",
     "genre": "country"
   },
   {
-    "song": "\nMercy\n",
-    "artist": "\n",
+    "song": "Mercy",
+    "artist": "Brett Young",
     "genre": "country"
   },
   {
-    "song": "\nUp Down\n",
-    "artist": "\nMorgan Wallen Featuring Florida Georgia Line\n",
+    "song": "Up Down",
+    "artist": "Morgan Wallen Featuring Florida Georgia Line",
     "genre": "country"
   },
   {
-    "song": "\nMost People Are Good\n",
-    "artist": "\n",
+    "song": "Most People Are Good",
+    "artist": "Luke Bryan",
     "genre": "country"
   },
   {
-    "song": "\nTake Back Home Girl\n",
-    "artist": "\nChris Lane Featuring Tori Kelly\n",
+    "song": "Take Back Home Girl",
+    "artist": "Chris Lane Featuring Tori Kelly",
     "genre": "country"
   },
   {
-    "song": "\nDrowns The Whiskey\n",
-    "artist": "\nJason Aldean Featuring Miranda Lambert\n",
+    "song": "Drowns The Whiskey",
+    "artist": "Jason Aldean Featuring Miranda Lambert",
     "genre": "country"
   },
   {
-    "song": "\nBreak Up In The End\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Feel It Still",
+    "artist": "Portugal. The Man",
+    "genre": "rock"
   },
   {
-    "song": "\nBroken Halos\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Believer",
+    "artist": "Imagine Dragons",
+    "genre": "rock"
   },
   {
-    "song": "\nSunrise, Sunburn, Sunset\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Whatever It Takes",
+    "artist": "Imagine Dragons",
+    "genre": "rock"
   },
   {
-    "song": "\nHooked\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Natural",
+    "artist": "Imagine Dragons",
+    "genre": "rock"
   },
   {
-    "song": "\nDrunk Girl\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Sit Next To Me",
+    "artist": "Foster The People",
+    "genre": "rock"
   },
   {
-    "song": "\nSingles You Up\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Mi Gente",
+    "artist": "J Balvin & Willy William Featuring Beyonce",
+    "genre": "latin"
   },
   {
-    "song": "\nHotel Key\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Dura",
+    "artist": "Daddy Yankee",
+    "genre": "latin"
   },
   {
-    "song": "\nLose It\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "X",
+    "artist": "Nicky Jam x J Balvin",
+    "genre": "latin"
   },
   {
-    "song": "\nFive More Minutes\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Te Bote",
+    "artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",
+    "genre": "latin"
   },
   {
-    "song": "\nShe Got The Best Of Me\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "El Farsante",
+    "artist": "Ozuna & Romeo Santos",
+    "genre": "latin"
   },
   {
-    "song": "\nI Was Jack (You Were Diane)\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Echame La Culpa",
+    "artist": "Luis Fonsi & Demi Lovato",
+    "genre": "latin"
   },
   {
-    "song": "\nLife Changes\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "La Modelo",
+    "artist": "Ozuna x Cardi B",
+    "genre": "latin"
   },
   {
-    "song": "\nBeautiful Crazy\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Wolves",
+    "artist": "Selena Gomez X Marshmello",
+    "genre": "electronic"
   },
   {
-    "song": "\nI Lived It\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Something Just Like This",
+    "artist": "The Chainsmokers & Coldplay",
+    "genre": "electronic"
   },
   {
-    "song": "\nWoman, Amen\n",
-    "artist": "\n ",
-    "genre": "country"
+    "song": "One Kiss",
+    "artist": "Calvin Harris & Dua Lipa",
+    "genre": "electronic"
   },
   {
-    "song": "\nAll On Me\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Silence",
+    "artist": "Marshmello Featuring Khalid",
+    "genre": "electronic"
   },
   {
-    "song": "\nBlue Tacoma\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Let Me Go",
+    "artist": "Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt",
+    "genre": "electronic"
   },
   {
-    "song": "\nYours\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Happier",
+    "artist": "Marshmello & Bastille",
+    "genre": "electronic"
   },
   {
-    "song": "\nSpeechless\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Jackie Chan",
+    "artist": "Tiesto & Dzeko Featuring Preme & Post Malone",
+    "genre": "electronic"
   },
   {
-    "song": "\nHangin' On\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Solo",
+    "artist": "Clean Bandit Featuring Demi Lovato",
+    "genre": "electronic"
   },
   {
-    "song": "\nThe Long Way\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Remind Me To Forget",
+    "artist": "Kygo Featuring Miguel",
+    "genre": "electronic"
   },
   {
-    "song": "\nBabe\n",
-    "artist": "\nSugarland Featuring Taylor Swift\n",
-    "genre": "country"
+    "song": "The Middle",
+    "artist": "Zedd, Maren Morris & Grey",
+    "genre": "pop"
   },
   {
-    "song": "\nWritten In The Sand\n",
-    "artist": "\n",
-    "genre": "country"
+    "song": "Girls Like You",
+    "artist": "Maroon 5 Featuring Cardi B",
+    "genre": "pop"
+  },
+  {
+    "song": "Perfect",
+    "artist": "Ed Sheeran",
+    "genre": "pop"
+  },
+  {
+    "song": "Never Be The Same",
+    "artist": "Camila Cabello",
+    "genre": "pop"
+  },
+  {
+    "song": "Love Lies",
+    "artist": "Khalid & Normani",
+    "genre": "pop"
+  },
+  {
+    "song": "Better Now",
+    "artist": "Post Malone",
+    "genre": "pop"
+  },
+  {
+    "song": "Mine",
+    "artist": "Bazzi",
+    "genre": "pop"
   }
 ]

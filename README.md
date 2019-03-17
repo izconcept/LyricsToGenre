@@ -33,3 +33,7 @@ Run:
 
 Run and Save:
 `scrapy crawl billboard -o ../../data/songs.json`
+
+### Run Lyrics (Genius) Scraper
+
+`python scraper/lyrics/genius_scraper.py`
