@@ -1,5 +1,6 @@
 import lyricsgenius
 import os
+import sys
 from pathlib import Path
 import json
 import threading
@@ -35,8 +36,11 @@ class geniusScraperThread(threading.Thread):
                 if genius_data and genius_data.lyrics:
                     song["lyrics"] = genius_data.lyrics
                     res.append(song)
+                # else:
+                #     print(f"SONG NOT FOUND, name: %s, artist: %s" % (song['song'], song['artist']))
             except:
                 print("Unexpected error:", sys.exc_info()[0])
+        print("THREAD COMPLETED")
         self.data = res
 
 
@@ -44,7 +48,7 @@ class geniusScraperThread(threading.Thread):
 with open(input_file) as f:
     data = json.load(f)
 
-SONGS_PER_THREAD = 250
+SONGS_PER_THREAD = 75
 thread_list = []
 
 for i in range(0, len(data), SONGS_PER_THREAD):

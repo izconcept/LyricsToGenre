@@ -111,4 +111,4 @@ venv
 .vscode
 .idea
 
-data/songs.json
+data/
