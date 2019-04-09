@@ -14,7 +14,7 @@ load_dotenv()
 
 ROOT_DIR = Path(__file__).parents[2]
 input_file = os.path.join(ROOT_DIR, 'data/songs.json')
-output_file = os.path.join(ROOT_DIR, 'data/songsWithLyrics.json')
+output_file = os.path.join(ROOT_DIR, 'data/songs.json')
 
 # Initialize RapGenius client
 genius = lyricsgenius.Genius(os.getenv("GENIUS_TOKEN"))
