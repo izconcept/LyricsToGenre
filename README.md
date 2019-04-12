@@ -36,4 +36,4 @@ Run and Save:
 
 ### Run Lyrics (Genius) Scraper
 
-`python scraper/lyrics/genius_scraper.py`
+`python scraper/genius_scaper/genius_scraper.py`

@@ -14,7 +14,7 @@ load_dotenv()
 
 ROOT_DIR = Path(__file__).parents[2]
 input_file = os.path.join(ROOT_DIR, 'data/songs.json')
-output_file = os.path.join(ROOT_DIR, 'data/songs.json')
+output_file = os.path.join(ROOT_DIR, 'data/songsWithLyrics.json')
 
 # Initialize RapGenius client
 genius = lyricsgenius.Genius(os.getenv("GENIUS_TOKEN"))
@@ -48,7 +48,7 @@ class geniusScraperThread(threading.Thread):
 with open(input_file) as f:
     data = json.load(f)
 
-SONGS_PER_THREAD = 75
+SONGS_PER_THREAD = 100
 thread_list = []
 
 for i in range(0, len(data), SONGS_PER_THREAD):
